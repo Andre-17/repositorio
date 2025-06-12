@@ -1,4 +1,4 @@
-a = 0
+a = 6
 b = 0 
 
 result = a + b
